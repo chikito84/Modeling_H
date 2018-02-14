@@ -48,7 +48,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="Use-Zk-z8T"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="カレンダー" image="Calendar-" id="QRU-Jo-5Rb"/>
+                    <tabBarItem key="tabBarItem" title="カレンダー" image="Calendar" id="QRU-Jo-5Rb"/>
                     <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
                         <outlet property="amount" destination="KRF-yV-w6v" id="iSJ-WF-Gt7"/>
@@ -61,6 +61,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Calendar-" width="50" height="50"/>
+        <image name="Calendar" width="43" height="43"/>
     </resources>
 </document>
