@@ -47,5 +47,5 @@ Xcode 9.2
 グループ名:琉大太郎(H)  
 メンバ-:照屋健弘, 松下亮太, 松居宏紀, 内原朝也, 安田亮, 山下耀崇  
 ## 参考させていただいたサイト  
-カレンダーの参考 <https://re-engines.com/2017/06/07/iosでライブラリfscalendarをつかって簡単にカレンダー表/>
-アイコン　<http://www.medalbadge.net/data/151.php>
+カレンダーの参考 <https://re-engines.com/2017/06/07/iosでライブラリfscalendarをつかって簡単にカレンダー表/>  
+アイコン　<http://www.medalbadge.net/data/151.php>  
